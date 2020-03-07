@@ -1,5 +1,5 @@
 # Data-Structures-And-Algorithms
-Basic DSA are implemented which I learned in Coding Blocks.
+Basic DSA are implemented which I learned in Coding Blocks.The Coding language is JAVA.
 
-# Coding Language is JAVA
-### Linked List
+## Data Structures
+* Linked List
