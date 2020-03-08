@@ -4,3 +4,4 @@ The Coding language is JAVA.
 
 ## Data Structures
 * Linked List
+* Stack
