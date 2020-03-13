@@ -7,3 +7,4 @@ The Coding language is JAVA.
 * Stack
 * Queue
 * Recursion
+* Generic Tree
