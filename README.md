@@ -9,3 +9,4 @@ The Coding language is JAVA.
 * Recursion
 * Generic Tree
 * Binary Tree
+* Binary Search Tree
