@@ -8,3 +8,4 @@ The Coding language is JAVA.
 * Queue
 * Recursion
 * Generic Tree
+* Binary Tree
