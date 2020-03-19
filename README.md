@@ -10,3 +10,4 @@ The Coding language is JAVA.
 * Generic Tree
 * Binary Tree
 * Binary Search Tree
+* Heap
