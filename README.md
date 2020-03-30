@@ -12,3 +12,4 @@ The Coding language is JAVA.
 * Binary Search Tree
 * Heap
 * Tries
+* Segment Tree
