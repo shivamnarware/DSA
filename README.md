@@ -13,3 +13,4 @@ The Coding language is JAVA.
 * Heap
 * Tries
 * Segment Tree
+* Dynamic Programming
