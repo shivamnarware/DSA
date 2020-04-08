@@ -14,3 +14,4 @@ The Coding language is JAVA.
 * Tries
 * Segment Tree
 * Dynamic Programming
+* Graph
