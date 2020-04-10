@@ -15,3 +15,4 @@ The Coding language is JAVA.
 * Segment Tree
 * Dynamic Programming
 * Graph
+* Hash
